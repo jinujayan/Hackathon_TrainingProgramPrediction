@@ -1,0 +1,60 @@
+{
+    "students": [
+        {
+            "course_name": "Org101 STL (July 2017)",
+            "section_name": "Org101 LaunchCode Mentor Center",
+            "fake_applicant_id": "78806",
+            "fake_email_address": "LisaVWebb@fleckens.hu",
+            "Prediction": 0
+        },
+        {
+            "course_name": "Org101 STL (July 2017)",
+            "section_name": "Org101 LaunchCode Mentor Center",
+            "fake_applicant_id": "78806",
+            "fake_email_address": "LisaVWebb@fleckens.hu",
+            "Prediction": 0
+        }
+    ],
+    "features": [
+        {
+            "FeatureName": "enrollment_status_completed",
+            "FeatureImportance": 0.4638365778
+        },
+        {
+            "FeatureName": "enrollment_status_dropped",
+            "FeatureImportance": 0.1468459078
+        },
+        {
+            "FeatureName": "enrollment_status_enrolled",
+            "FeatureImportance": 0.0867316505
+        },
+        {
+            "FeatureName": "enrollment_status_withdrawn",
+            "FeatureImportance": 0.066291389
+        },
+        {
+            "FeatureName": "age_birthday_masked",
+            "FeatureImportance": 0.016904466
+        },
+        {
+            "FeatureName": "unit_Unit 3",
+            "FeatureImportance": 0.0141531014
+        },
+        {
+            "FeatureName": "maxlearner_test_score_percent",
+            "FeatureImportance": 0.011070662
+        },
+        {
+            "FeatureName": "hacker_rank_score",
+            "FeatureImportance": 0.0110587915
+        },
+        {
+            "FeatureName": "hours_coded_0-5",
+            "FeatureImportance": 0.0060026095
+        },
+        {
+            "FeatureName": "primary_interest_in_course_Apprentice_job",
+            "FeatureImportance": 0.0036708658
+        }
+    ]
+}

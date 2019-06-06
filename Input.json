@@ -1,0 +1,55 @@
+{
+"students":[{
+				"canvas_course_name"   :"Org101 St. Louis - Mentor Center (Summer 2017)",
+				"fake_applicant_id"   :"78806",
+				"title_clean"   :"Class 2.9 Prep",
+				"record_type"   :"Prep Work",
+				"unit"   :"Unit 2",
+				"include?"   :"0",
+				"course_name"   :"Org101 STL (July 2017)",
+				"section_name"   :"Org101 LaunchCode Mentor Center",
+				"fake_email_address"   :"LisaVWebb@fleckens.hu",
+				"age_birthday_masked"   :"22",
+				"race"   :"Caucasian or White",
+				"gender"   :"Male",
+				"income"   :"$10,000 - $20,000",
+				"education"   :"Some high school",
+				"city"   :"Saint Louis",
+				"state"   :"MO",
+				"primary_interest_in_course"   :"Apprentice_job",
+				"hours_coded"   :"0-5",
+				"how_many_hours_a_week_can_you_commit_to_class"   :"0-5",
+				"enrollment_status"   :"dropped",
+				"promise_zone_indicator"   :"0",
+				"hacker_rank_score"   :"6",
+				"maxlearner_test_score_percent"   :"0.6"
+
+},
+{
+				"canvas_course_name"   :"Org101 St. Louis - Mentor Center (Summer 2017)",
+				"fake_applicant_id"   :"78806",
+				"title_clean"   :"Class 2.9 Prep",
+				"record_type"   :"Prep Work",
+				"unit"   :"Unit 2",
+				"include?"   :"1",
+				"course_name"   :"Org101 STL (July 2017)",
+				"section_name"   :"Org101 LaunchCode Mentor Center",
+				"fake_email_address"   :"LisaVWebb@fleckens.hu",
+				"age_birthday_masked"   :"22",
+				"race"   :"Caucasian or White",
+				"gender"   :"Male",
+				"income"   :"$10,000 - $20,000",
+				"education"   :"Some high school",
+				"city"   :"Saint Louis",
+				"state"   :"MO",
+				"primary_interest_in_course"   :"Apprentice_job",
+				"hours_coded"   :"0-5",
+				"how_many_hours_a_week_can_you_commit_to_class"   :"0-5",
+				"enrollment_status"   :"dropped",
+				"promise_zone_indicator"   :"0",
+				"hacker_rank_score"   :"6",
+				"maxlearner_test_score_percent"   :"0.6"
+
+}]
+
+}
